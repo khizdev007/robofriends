@@ -1,0 +1,20 @@
+.robo_heading{
+    color:white;
+    text-shadow: 4px 5px 12px black;
+    font-size:400%;
+    text-align: center;
+    margin:50px;
+}
+input{
+    padding:20px;
+    text-align: center;
+    display:grid;
+    box-shadow:1px 1px 12px white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border:none;
+}
+input:active{
+    outline:none;
+    border:none;
+}

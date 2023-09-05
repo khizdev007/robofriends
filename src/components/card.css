@@ -1,0 +1,27 @@
+.card{
+    background-color:white;
+    width:400px;
+    min-height:300px;
+    text-align: center;
+    box-shadow:1px 1px 12px white;
+  opacity:1; 
+    margin:80px;    
+    border-radius:4px;
+}
+
+a{
+    font-size:79px;
+}
+body{
+    
+   display: inline;  
+   margin: auto;
+}
+.parent{
+    min-height: 80vh;
+    display:flex;
+    flex-wrap: wrap;
+    margin:40px;
+    justify-content: center;
+    align-items: center;
+}
